@@ -102,4 +102,43 @@
     <string name="folder_closed" msgid="3130534551370511932">"Folder zamknięty"</string>
     <string name="folder_renamed" msgid="781234745487414781">"Nazwa folderu zmieniona na %1$s"</string>
     <string name="folder_name_format" msgid="4513766553514769310">"Folder: %1$s"</string>
+    <string name="preferences_title">"Preferencje"</string> 
+    <string name="preferences_interface_title">"Interfejs"</string> 
+    <string name="preferences_application_title">"Aplikacja"</string> 
+    <string name="preferences_interface_homescreen_title">"Ekran główny"</string> 
+    <string name="preferences_interface_homescreen_general_category">"Ogólne"</string> 
+    <string name="preferences_interface_homescreen_general_screens_title">"Ekrany główne"</string> 
+    <string name="preferences_interface_homescreen_general_screens_summary">"Liczba stron głównych"</string> 
+    <string name="preferences_interface_homescreen_general_default_screen_title">"Ekran domyślny"</string> 
+    <string name="preferences_interface_homescreen_general_default_screen_summary">"Wybierz ekran domyślny"</string> 
+    <string name="preferences_interface_homescreen_general_search_title">"Pasek wyszukiwania"</string> 
+    <string name="preferences_interface_homescreen_general_search_summary">"Uaktywnij pasek wyszukiwania na stałe"</string> 
+    <string name="preferences_interface_homescreen_general_resize_any_widget_title">"Skalowanie wszystkich widżetów"</string> 
+    <string name="preferences_interface_homescreen_general_resize_any_widget_summary">"Pozwól na zmianę romiaru widżetów, które nie są skalowalne"</string> 
+    <string name="preferences_interface_homescreen_scrolling_category">"Przewijanie"</string> 
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_title">"Efekt przejścia"</string> 
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_summary">"Efekt przewijania stron głównych"</string> 
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_title">"Zanikanie bocznych stron"</string> 
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_summary">"Stosuj zanikanie bocznych ston podczas przewijania ekranów głównych"</string> 
+    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_title">"Przewijanie tapety"</string> 
+    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_summary">"Przewijaj tapetę podczas przewijania ekranów głównych"</string> 
+    <string name="preferences_interface_homescreen_indicator_category">"Wskaźnik"</string> 
+    <string name="preferences_interface_homescreen_indicator_enable_title">"Pokaż wskaźnik strony"</string> 
+    <string name="preferences_interface_homescreen_indicator_enable_summary">"Oznacz bieżącą stronę na wskaźniku u dołu ekranu"</string> 
+    <string name="preferences_interface_homescreen_indicator_fade_title">"Zanikanie wskaźnika"</string> 
+    <string name="preferences_interface_homescreen_indicator_fade_summary">"Stosuj zanikanie wskaźnika po zmianie strony"</string> 
+    <string name="preferences_interface_homescreen_indicator_background_title">"Pokaż podział docka"</string> 
+    <string name="preferences_interface_homescreen_indicator_background_summary">"Pokaż tło pod wskaźnikiem"</string> 
+    <string name="preferences_interface_drawer_title">"Szuflada"</string> 
+    <string name="preferences_interface_drawer_widgets_category">"Widżety"</string> 
+    <string name="preferences_interface_drawer_widgets_join_apps_title">"Połącz z aplikacjami"</string> 
+    <string name="preferences_interface_drawer_widgets_join_apps_summary">"Przejdź od aplikacji do widżetów bez przełączania kart"</string> 
+    <string name="preferences_interface_drawer_indicator_category">"Wskaźnik"</string> 
+    <string name="preferences_interface_drawer_indicator_enable_title">"Pokaż wskaźnik strony"</string> 
+    <string name="preferences_interface_drawer_indicator_enable_summary">"Oznacz bieżącą stronę na wskaźniku u dołu ekranu"</string> 
+    <string name="preferences_interface_drawer_indicator_fade_title">"Zanikanie wskaźnika"</string> 
+    <string name="preferences_interface_drawer_indicator_fade_summary">"Stosuj zanikanie wskaźnika po zmianie strony"</string> 
+    <string name="preferences_interface_dock_title">"Dock"</string> 
+    <string name="preferences_interface_icons_title">"Ikony"</string> 
+    <string name="preferences_interface_general_title">"Ogólne"</string> <string name="preferences_interface_general_orientation_title">Autoobracanie ekranu</string> </resources>
 </resources>
